@@ -1,0 +1,8 @@
+gunicorn==19.6.0	
+pandas==0.22.0
+Flask
+pybase64
+jsonpickle
+pillow
+numpy
+opencv-python
